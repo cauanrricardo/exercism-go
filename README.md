@@ -30,6 +30,5 @@ Cada exercício contém:
 - Os testes da plataforma (`_test.go`)
 - Arquivos auxiliares como `README.md`, `HELP.md`, `HINTS.md`, entre outros.
 
- - Meu Perfil no Exercism
-Confira meu progresso e outras soluções diretamente no meu perfil da plataforma:
+   
 👉 exercism.org/profiles/cauanrricardo
